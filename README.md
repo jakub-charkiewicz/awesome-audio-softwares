@@ -111,9 +111,9 @@ Instruments, modular environments, and drum machines.
 Real-time visuals driven by audio or MIDI.
 
 - [projectM](https://github.com/projectM-visualizer/projectm) ![GitHub stars](https://img.shields.io/github/stars/projectM-visualizer/projectm?style=flat&label=%E2%AD%90) - Cross-platform, open-source music visualization library that is MilkDrop-compatible, rendering real-time audio-reactive visuals via OpenGL.
-- [MilkDrop](https://en.wikipedia.org/wiki/MilkDrop) - Classic hardware-accelerated music visualization plugin for Winamp by Ryan Geiss; beat-synced user "presets."
-- [Advanced Visualization Studio (AVS)](https://en.wikipedia.org/wiki/Advanced_Visualization_Studio) - Winamp visualization plugin by Nullsoft for building custom visual effect chains.
-- [G-Force](https://en.wikipedia.org/wiki/G-Force_(visualization_software)) - Music visualization plugin by Andy O'Meara known for detailed, organic 3D visuals.
+- [MilkDrop](https://www.geisswerks.com/milkdrop/) - Classic hardware-accelerated music visualization plugin for Winamp by Ryan Geiss; beat-synced user "presets."
+- [Advanced Visualization Studio (AVS)](https://github.com/visbot/vis_avs) ![GitHub stars](https://img.shields.io/github/stars/visbot/vis_avs?style=flat&label=%E2%AD%90) - Winamp visualization plugin by Nullsoft for building custom visual effect chains (open-sourced AVS 2.81d code).
+- [G-Force](https://www.soundspectrum.com/g-force/) - Music visualization plugin by Andy O'Meara (SoundSpectrum) known for detailed, organic 3D visuals.
 - [harmony_visualizer](https://github.com/Frieve-A/harmony_visualizer) ![GitHub stars](https://img.shields.io/github/stars/Frieve-A/harmony_visualizer?style=flat&label=%E2%AD%90) - Tool by Frieve-A for visualizing the harmony of MIDI input.
 
 ---

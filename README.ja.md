@@ -111,9 +111,9 @@ FX スイート、リスニング向けツール、処理チェーン。
 オーディオや MIDI に反応するリアルタイムビジュアル。
 
 - [projectM](https://github.com/projectM-visualizer/projectm) ![GitHub stars](https://img.shields.io/github/stars/projectM-visualizer/projectm?style=flat&label=%E2%AD%90) - MilkDrop 互換のクロスプラットフォーム OSS 音楽ビジュアライゼーションライブラリ。OpenGL でリアルタイム描画。
-- [MilkDrop](https://en.wikipedia.org/wiki/MilkDrop) - Ryan Geiss による Winamp 用の定番ハードウェア加速ビジュアライザ。ビート同期のユーザー「プリセット」。
-- [Advanced Visualization Studio (AVS)](https://en.wikipedia.org/wiki/Advanced_Visualization_Studio) - Nullsoft による Winamp 用ビジュアライザ。独自エフェクトチェーンを構築可能。
-- [G-Force](https://en.wikipedia.org/wiki/G-Force_(visualization_software)) - Andy O'Meara による人気ビジュアライザ。精巧で有機的な 3D ビジュアル。
+- [MilkDrop](https://www.geisswerks.com/milkdrop/) - Ryan Geiss による Winamp 用の定番ハードウェア加速ビジュアライザ。ビート同期のユーザー「プリセット」。
+- [Advanced Visualization Studio (AVS)](https://github.com/visbot/vis_avs) ![GitHub stars](https://img.shields.io/github/stars/visbot/vis_avs?style=flat&label=%E2%AD%90) - Nullsoft による Winamp 用ビジュアライザ。独自エフェクトチェーンを構築可能（オープンソース化された AVS 2.81d のコード）。
+- [G-Force](https://www.soundspectrum.com/g-force/) - Andy O'Meara（SoundSpectrum）による人気ビジュアライザ。精巧で有機的な 3D ビジュアル。
 - [harmony_visualizer](https://github.com/Frieve-A/harmony_visualizer) ![GitHub stars](https://img.shields.io/github/stars/Frieve-A/harmony_visualizer?style=flat&label=%E2%AD%90) - Frieve-A による、MIDI 入力のハーモニー可視化ツール。
 
 ---
